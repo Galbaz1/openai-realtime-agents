@@ -1,0 +1,5 @@
+---
+description: Always use this rule before you make big edits to the codebase
+globs: 
+alwaysApply: false
+---
